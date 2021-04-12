@@ -12,3 +12,5 @@ nascido e criado em mMtão interior de São Paulo
 ## Após muito tempo resolvi me aventurar pelo mundo e me mudei para curitiba dividindo uma casa com meu amigo
 
 ## Então eu evolui do interior de São Paulo, para uma cidade tão boa quanto Curitiba
+
+<img src="https://github.com/maykepaiva/Teste/blob/main/Curitiba.jpg?raw=true">
